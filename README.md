@@ -1,4 +1,4 @@
--# veterinaria
+# veterinaria
 
 Son dos programas cliente-servidor que gestionan la información de animales en una veterinaria. Permiten ingresar, ver, borrar y buscar registros. Iimplementa una tabla hash para la búsqueda en el archivo.
 
